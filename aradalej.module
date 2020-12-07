@@ -1,0 +1,5 @@
+<?php 
+
+function aradalej_page_attachments(array &$page) {
+  $page['#attached']['library'][] = 'aradalej/aradalej_css';
+}

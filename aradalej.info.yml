@@ -1,0 +1,5 @@
+name: AradaLej
+type: module
+package: YonasYeneneh
+description: This module displays Advertisement from external API
+core: 9.x

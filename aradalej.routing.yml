@@ -1,0 +1,14 @@
+aradalej.content:
+  path: "/aradalej"
+  defaults:
+    _controller: '\Drupal\aradalej\Controller\AradalejController::content'
+    _title: "AradaLej"
+  requirements:
+    _permission: "access content"
+aradalej.test:
+  path: "/test"
+  defaults:
+    _controller: 'Drupal\aradalej\Controller\AradalejController::test'
+    _title: "Testing"
+  requirements:
+    _permission: "access content"
