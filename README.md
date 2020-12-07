@@ -2,7 +2,7 @@
 
 A custom module that consumes external API and render a page with it's data
 
-![alt text](https://github.com/sanoylab/FetchAPI-CustomModule-Drupal9/screenshot.PNG)
+![alt text](https://raw.githubusercontent.com/sanoylab/FetchAPI-CustomModule-Drupal9/master/screenshot.PNG)
 
 API Used:
 
